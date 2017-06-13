@@ -19,7 +19,7 @@ DEFAULT_DATE_FORMAT = '%d/%m/%Y'
 
 DEFAULT_LANG = 'pt'
 
-GOOGLE_ANALYTICS = 'UA-81908417-1'
+#GOOGLE_ANALYTICS = 'UA-100940919-1'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -29,9 +29,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'))
+LINKS = (('Everton da Rosa', 'https://everton3x.github.io/'),
+         ('Fórum sobre Contabilidade Pública', 'http://www.contabeis.com.br/forum/foruns/8/contabilidade-publica/')
+)
 
 # Social widget
 SOCIAL = (('Facebook', 'https://facebook.com/everton3x'),
