@@ -1,5 +1,6 @@
 Title: Reabertura de Créditos Especiais e o seu reflexo no Superávit Financeiro
 Date: 2016-08-13 14:59
+Modified: 2017-07-04
 Category: Contabilidade, Orçamento
 Tags: superavit financeiro, crédito adicional, reabertura
 Summary: Estava um dia desses me perguntando sobre qual a fonte de recursos a ser utilizada quando reabro um crédito especial com base no § 2º do art. 167 da Constituição da República:
@@ -92,3 +93,19 @@ Tudo bem que o inciso V do art. 167 da CR possa ser invocado como vedação à r
 Se existisse na CR alguma vedação explícita, esta ocorreria, ou no § 2º do art. 167, ou no inciso V do mesmo artigo mediante a inclusão do termo "reabertura".
 
 Mesmo não existindo vedação formal, o que impera é a prática, porque de nada adianta formalmente existir uma dotação, mas que não pode ser executada por falta de recursos, até porque, isso contraria um dos pressupostos básicos da LRF, que é a responsabilidade na gestão fiscal e o equilíbrio das finanças públicas.
+
+Em tempo:
+
+O colega Loureço de Wallau bem lembrou do § 1º do art. 43 da lei nº 4.320/64:
+
+> Art. 43. A abertura dos créditos suplementares e especiais depende da existência de recursos disponíveis para ocorrer a despesa e será precedida de exposição justificativa. (Veto rejeitado no D.O. 05/05/1964)
+> 
+> § 1º Consideram-se recursos para o fim deste artigo, **desde que não comprometidos**:
+> 
+> I - o superávit financeiro apurado em balanço patrimonial do exercício anterior;
+> 
+II - os provenientes de excesso de arrecadação;
+> 
+> III - os resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em Lei;
+
+> IV - o produto de operações de credito autorizadas, em forma que juridicamente possibilite ao poder executivo realiza-las.
