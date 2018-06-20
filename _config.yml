@@ -6,6 +6,25 @@ description: "Artigos, papers e conteúdo sobre Contabilidade Pública." # used 
 
 timezone: America/Sao_Paulo
 encoding: utf-8
+destination: "docs"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "everton3x"
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: "page"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
