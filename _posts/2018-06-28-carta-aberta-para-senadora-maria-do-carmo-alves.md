@@ -1,7 +1,8 @@
 ---
 title: Carta Aberta à Senadora Maria do Carmo Alves
 category: Opinião
-tags: serviço público
+tags:
+  - serviço público
 ---
 Excelentíssima Senhora Senadora:
 

@@ -1,8 +1,8 @@
 ---
 title: Como determinar a economia do turno-único
-date: 2016-10-18 20:12
 category: Contabilidade
-tags: turno-único
+tags:
+  - turno-único
 ---
 A utilização de turno-único nas Prefeituras tem sido uma ferramenta recorrente nos últimos anos cuja principal justificativa apresentada é a de que a redução temporária do horário de funcionamento das repartições públicas resultaria numa economia importante de recursos, principalmente em períodos de redução na receita dos Municípios.
 
@@ -80,8 +80,5 @@ O último passo é comparar a média aritmética da despesa ajustada dos períod
 - Períodos de início e fim do turno-único constantes durante os anos; e
 - A liquidação da despesa deve ocorrer nas devidas competências mensais, pelo menos como regra.
 
-Como exemplo, deixo a planilha eletrônica com o cálculo que realizei em meu município.
-
-[Versão LibreOffice/BrOffice/OpenOffice]({filename}/files/economia-turno-unico.ods);
-[Versão Microsoft Excel 97-2003]({filename}/files/economia-turno-unico.xls);
-[Versão Microsoft Excel 2007-2013]({filename}/files/economia-turno-unico.xlsx);
+## Considerações finais
+Embora tenha se tornado uma espécie de tradição o uso de turno-unico em cenários de dificuldades financeiras sob a alegação de que isso trará economia aos cofres públicos, tal resultado é facilmente questionável, uma vez que inexistem levantamentos sérios e consistentes sobre os resultados obtidos. Na maioria das vezes, os números apresentados não são acompanhados de elementos que possiblitem a sua verificação ou qualquer análise quanto à sua validade.

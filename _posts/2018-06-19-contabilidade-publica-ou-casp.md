@@ -1,9 +1,8 @@
 ---
 title: Contabilide Pública ou CASP?
-date: 2016-02-25 15:32
-category: Contabilidade
-tags: Opinião
-header_cover: /images/mesa-pessoas-conversando-fundo.jpg
+category: Opinião
+tags:
+  - contabilidade
 summary: Trocar o termo Contabilidade Pública por Contabilidade Aplicada à Contabilidade Pública, embora pareça algo fundamental para a "nova contabilidade" que se está implantando ao setor público não passa de um golpe de marketing que, embora seja coroado de boa intenção, não vai trazer benefício algum.
 ---
 
