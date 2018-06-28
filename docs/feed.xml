@@ -5,7 +5,7 @@
         <atom:link href="/contabilidadepublica/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://everton3x.github.io/contabilidadepublica/</link>
         <description></description>
-        <pubDate>Thu, 28 Jun 2018 10:37:07 -0300</pubDate>
+        <pubDate>Thu, 28 Jun 2018 14:11:19 -0300</pubDate>
         
         <item>
             <title>Uma impressora locada deve ser registrada no Ativo Imobilizado?</title>
@@ -94,6 +94,307 @@
 &lt;p&gt;Não podemos esquecer de que esse cálculo deve ser feito considerando cada fonte de recurso vinculado, já que não se pode utilizar recurso financeiro de uma fonte em despesa de outra fonte, exceção a isso, se faz somente quanto aos recursos próprios (fontes 0001 Livre, 0020 MDE e 0040 ASPS, no Rio Grande do Sul), os quais podem ser analisados em conjunto.&lt;/p&gt;
 
 &lt;p&gt;Sobre os efeitos da reabertura de créditos adicionais sobre o superávit financeiro, recomendo ler o texto &lt;a href=&quot;{filename}2016-08-13-reabertura-de-creditos-especiais-e-o-seu-reflexo-no-superavit-financeiro.md&quot;&gt;Reabertura de Créditos Especiais e o seu reflexo no Superávit Financeiro&lt;/a&gt;.&lt;/p&gt;
+</description>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+        </item>
+        
+        <item>
+            <title>Reabertura de Créditos Especiais e o seu reflexo no Superávit Financeiro</title>
+            <link>/contabilidadepublica/or%C3%A7amento/2018/06/28/reabertura-de-creditos-especiais-e-o-seu-reflexo-no-superavit-financeiro.html</link>
+            <guid isPermaLink="true">/contabilidadepublica/or%C3%A7amento/2018/06/28/reabertura-de-creditos-especiais-e-o-seu-reflexo-no-superavit-financeiro.html</guid>
+            <description>&lt;p&gt;Estava um dia desses me perguntando sobre qual a fonte de recursos a ser utilizada quando reabro um crédito especial com base no § 2º do art. 167 da Constituição da República:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;§ 2º Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subseqüente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Segundo o TCE/RS, o registro deve considerar a mesma fonte de recursos utilizada para a abertura do crédito original, lá no orçamento do ano anterior (alguém me disse isso, mas não confirmei em nenhum documento do TCE/RS, por enquanto).
+De qualquer forma, sempre tive a sensação de que era o superávit financeiro do exercício anterior quem deveria pagar essa conta, ainda mais depois de ler o que diz o § 2º do art. 32 do Projeto de Lei nº 229/2009, que visa substituir a Lei nº 4.320/1964:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Art. 32. Os projetos de lei relativos à abertura de crédito suplementar ou especial dependerão da existência de recursos disponíveis para atender às despesas neles previstas e serão acompanhados de exposição de motivos circunstanciada que os justifique e que indique as consequências de cancelamento de dotação eventualmente proposto sobre a execução da ação orçamentária.
+§ 1º Para os fins deste artigo, consideram-se recursos, desde que não comprometidos:&lt;/p&gt;
+
+  &lt;p&gt;I – o saldo positivo dos recursos apurado por vinculação e, quando possível, por unidade orçamentária, no exercício anterior;&lt;/p&gt;
+
+  &lt;p&gt;II – o proveniente de excesso de arrecadação por vinculação dos recursos;&lt;/p&gt;
+
+  &lt;p&gt;III – o resultante de anulação parcial ou total de dotações orçamentárias, inclusive da Reserva de Contingência;&lt;/p&gt;
+
+  &lt;p&gt;IV – o produto de operação de crédito autorizada até o montante que seja possível realizar no exercício;&lt;/p&gt;
+
+  &lt;p&gt;V – o cancelamento de restos a pagar, desde que verificada a disponibilidade financeira; e&lt;/p&gt;
+
+  &lt;p&gt;VI – aqueles referidos no art. 166, § 8º, da Constituição Federal.&lt;/p&gt;
+
+  &lt;p&gt;§ 2º Os recursos de que trata o § 1º, incisos I, II, III, V e VI, somente poderão ser utilizados depois de deduzidos os saldos dos seguintes créditos abertos ou reabertos no exercício ou que estejam em trâmite no legislativo:&lt;/p&gt;
+
+  &lt;p&gt;I – créditos adicionais reabertos;&lt;/p&gt;
+
+  &lt;p&gt;II – créditos adicionais abertos com saldo de dotações de projetos de investimentos plurianuais do exercício anterior; e&lt;/p&gt;
+
+  &lt;p&gt;III – créditos extraordinários&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mas como esse projeto de lei ainda não se converteu em lei, e a Lei nº 4.320/64 ainda vigora, tive que desenvolver uma tese para justificar essa minha impressão.
+Vamos tomar por base o orçamento de 2016. Suponhamos que em dezembro abrimos um crédito especial que não foi executado integralmente naquele ano e foi, então, reaberto em 2017.&lt;/p&gt;
+
+&lt;p&gt;Lá em 2016, na abertura do crédito, foi indicada uma fonte de recursos (vou usar uma só para efeitos didáticos). Essa fonte pode ser o superávit financeiro, o excesso de arrecadação ou a redução de dotações orçamentárias (também vou desconsiderar o cancelamento de restos a pagar, até porque o seu efeito é o de aumentar o superávit financeiro).&lt;/p&gt;
+
+&lt;p&gt;Caso o superávit financeiro tivesse sido a fonte de recursos do crédito aberto em 2016, a execução total desse crédito teria como consequência um superávit financeiro para 2017 menor. Como o crédito não foi integralmente executado em 2016, no exemplo, os recursos que o suportariam acabaram migrando para o superávit em 2017.&lt;/p&gt;
+
+&lt;p&gt;Se, de outro forma, em 2016 a fonte de recursos tivesse sido o excesso de arrecadação (efetivo), a não execução total do crédito aberto teria, também como consequência, um superávit maior para 2017.&lt;/p&gt;
+
+&lt;p&gt;Mas e se a fonte de recursos tivesse sido a redução (ou anulação) de dotações em 2016? Neste caso, o mesmo efeito no superávit seria observado, porque uma dotação quando originalmente prevista na LOA tem como fonte de recurso uma receita orçamentária. Quando eu arrecado mas não gasto, independente se é na dotação original ou numa que a sucede através de redução, o efeito também é de um superávit maior para o exercício seguinte.&lt;/p&gt;
+
+&lt;p&gt;Ou seja, os recursos que irão suportar o crédito reaberto estão “dentro” do superávit financeiro, independentemente da fonte de recursos indicada na abertura do crédito no exercício anterior.&lt;/p&gt;
+
+&lt;p&gt;Uma outra forma de se entender isso é considerar que a dotação reaberta em 2017 não se encerrou em 2016, mas sim, continua em execução no ano seguinte, ou seja, o orçamento de 2016 continuaria em execução durante 2017 no que se refere às dotações reabertas. Assim, é como se os recursos se mantivessem vinculados a 2016 em vez de vincularem-se ao orçamento de 2017.&lt;/p&gt;
+
+&lt;p&gt;Outra forma de demonstrar que necessariamente temos que onerar o superávit financeiro com a reabertura de créditos é analisando o efeito da reabertura no orçamento.&lt;/p&gt;
+
+&lt;p&gt;Vamos supor que no ano da reabertura tivemos os seguintes fatos orçamentários:&lt;/p&gt;
+
+&lt;p&gt;Receita prevista na LOA: R$ 10.000.000,00;&lt;/p&gt;
+
+&lt;p&gt;Despesa Prevista na LOA: R$ 10.000.000,00;&lt;/p&gt;
+
+&lt;p&gt;Créditos reabertos: R$ 500.000,00;&lt;/p&gt;
+
+&lt;p&gt;Receita arrecadada: R$ 10.000.000,00;&lt;/p&gt;
+
+&lt;p&gt;Despesa executada (originalmente prevista na LOA): R$ 10.000.000,00; e&lt;/p&gt;
+
+&lt;p&gt;Créditos reabertos executados: R$ 500.000,00.&lt;/p&gt;
+
+&lt;p&gt;De pronto observamos que houve um déficit orçamentário de R$ 500.000,00, já que o que se previu na LOA foi arrecadado e executado (é um exemplo didático, não vamos complicar com alterações orçamentárias). Então, de onde vieram os recursos para a execução dos créditos reabertos? Não há outra fonte que não seja o superávit financeiro do exercício anterior, porque se não fosse isso, ou a despesa não seria executada, ou o ordenador de despesas estaria em maus lençóis.&lt;/p&gt;
+
+&lt;p&gt;Isso tudo leva a uma conclusão óbvia: somente podemos reabrir créditos até o montante disponível de superávit financeiro na data da reabertura e no código de recurso vinculado da dotação.&lt;/p&gt;
+
+&lt;p&gt;Quanto a primeira parte da conclusão, sim: além do limitador do saldo da dotação, também há o limitador do superávit disponível na data da reabertura (posso ter utilizado parte do superávit para abertura de outros créditos antes da reabertura).&lt;/p&gt;
+
+&lt;p&gt;Contudo, afirmar que só posso reabrir até o limite de superávit do código de recurso vinculado da dotação, não é bem assim, e digo o porquê.&lt;/p&gt;
+
+&lt;p&gt;O controle por código de vinculação de recursos, que alguns chamam de fonte de recurso (que não utilizo aqui para não causar confusão), é o mecanismo operacional que implementa o parágrafo único do art. 8º da Lei Complementar nº 101/2000, a LRF:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Parágrafo único. Os recursos legalmente vinculados a finalidade específica serão utilizados exclusivamente para atender ao objeto de sua vinculação, ainda que em exercício diverso daquele em que ocorrer o ingresso.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Entretanto, ele não compõe a classificação orçamentária para fins de LOA. Isso quer dizer que o código de recurso vinculado não faz parte da dotação (ou rubrica) orçamentária. Até porque, ele tem natureza de informação muito mais financeira do que orçamentária (no Rio Grande do Sul, temos códigos de recurso vinculado até para recursos extra-orçamentários).&lt;/p&gt;
+
+&lt;p&gt;Isto quer dizer que, se na reabertura de determinado crédito especial não existir saldo suficiente no superávit financeiro do código de recurso vinculado original, é possível a reabertura com outro código de recurso vinculado, desde que este novo código seja aplicável à despesa que será realizada através do crédito reaberto.&lt;/p&gt;
+
+&lt;p&gt;Por exemplo, se o crédito original e que será reaberto era vinculado ao código da fonte de recursos do FUNDEB, porém não há superávit suficiente naquele recurso vinculado, é possível, em tese, reabrir o crédito com o recurso vinculado MDE, ou até com recurso vinculado LIVRE (recursos vinculados utilizados no Rio Grande do Sul).&lt;/p&gt;
+
+&lt;p&gt;Por fim, embora a Constituição da República não fale que a reabertura necessite de recurso disponível, algo contemplado no PL nº 229/2009, não é lógico nem prudente que se reabra créditos sem suporte financeiro.&lt;/p&gt;
+
+&lt;p&gt;Tudo bem que o inciso V do art. 167 da CR possa ser invocado como vedação à reabertura de créditos sem recursos correspondentes, mas vejamos que aquele inciso veda a “abertura” e não a “reabertura”:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;V - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Se existisse na CR alguma vedação explícita, esta ocorreria, ou no § 2º do art. 167, ou no inciso V do mesmo artigo mediante a inclusão do termo “reabertura”.&lt;/p&gt;
+
+&lt;p&gt;Mesmo não existindo vedação formal, o que impera é a prática, porque de nada adianta formalmente existir uma dotação, mas que não pode ser executada por falta de recursos, até porque, isso contraria um dos pressupostos básicos da LRF, que é a responsabilidade na gestão fiscal e o equilíbrio das finanças públicas.&lt;/p&gt;
+
+&lt;p&gt;Em tempo:&lt;/p&gt;
+
+&lt;p&gt;O colega Loureço de Wallau bem lembrou do § 1º do art. 43 da lei nº 4.320/64:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Art. 43. A abertura dos créditos suplementares e especiais depende da existência de recursos disponíveis para ocorrer a despesa e será precedida de exposição justificativa. (Veto rejeitado no D.O. 05/05/1964)&lt;/p&gt;
+
+  &lt;p&gt;§ 1º Consideram-se recursos para o fim deste artigo, &lt;strong&gt;desde que não comprometidos&lt;/strong&gt;:&lt;/p&gt;
+
+  &lt;p&gt;I - o superávit financeiro apurado em balanço patrimonial do exercício anterior;&lt;/p&gt;
+
+  &lt;p&gt;II - os provenientes de excesso de arrecadação;&lt;/p&gt;
+
+  &lt;p&gt;III - os resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em Lei;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;IV - o produto de operações de credito autorizadas, em forma que juridicamente possibilite ao poder executivo realiza-las.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+        </item>
+        
+        <item>
+            <title>Qual credor deve constar nos empenhos de precatórios e RPV?</title>
+            <link>/contabilidadepublica/or%C3%A7amento/2018/06/28/qual-credor-empenhar-precatorios-e-rpv.html</link>
+            <guid isPermaLink="true">/contabilidadepublica/or%C3%A7amento/2018/06/28/qual-credor-empenhar-precatorios-e-rpv.html</guid>
+            <description>&lt;p&gt;Desde já alerto ao leitor que este texto traz uma opinião baseada estritamente num raciocínio lógico, e não na interpretação de algum instrumento normativo. Portanto, use por sua conta e risco!&lt;/p&gt;
+
+&lt;p&gt;No meu entendimento, os empenhos para pagamento de precatórios e RPV devem ser feitos em nome dos beneficiários daqueles, uma vez que, assim como um boleto bancário é apenas um instrumento para o pagamento de uma despesa “normal”, a guia para o depósito, embora traga como emitente o Poder Judiciário, também trata-se de apenas um instrumento para o pagamento.&lt;/p&gt;
+
+&lt;p&gt;Assim como nas despesas ordinárias temos os documentos fiscais e os contratos como documentos básicos para o pagamento, quanto aos precatórios e RPV, temos esses como documentos que amparam o pagamento.&lt;/p&gt;
+
+&lt;p&gt;Se entendessemos que é o emitente da guia que deve ser o credor a constar no empenho sob a justificativa de que é o Tribunal que irá receber o montante pago, isso autorizaria o entendimento de que, quando pagamos uma despesa por meio de um boleto bancário, o credor do empenho deveria ser o banco emitente, já que é quem irá, primeiramente receber o valro pago.&lt;/p&gt;
+
+&lt;p&gt;Note que, com o pagamento ao Poder Judiciário não há a extinção da obrigação do Poder Público perante os credores do precatório/RPV. Isso só ocorre quando esses credores efetivamente receberem a integralidade dos valores devidos. Se você duvida disso, consulte o MCASP 7ª edição, na página 330, item &lt;em&gt;c. No pagamento do precatório do município pelo Tribunal de Justiça&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No pagamento do precatório do município pelo Tribunal de Justiça o ente deverá baixar o passivo em contrapartida à redução do saldo contábil da conta especial. Esse lançamento apenas poderá ser realizado após a comunicação pelo Tribunal de Justiça ao município sobre os pagamentos de precatórios efetuados.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Caso diferente se dá para os depósitos judiciais, caracterizados pela possibilidade de devolução ao depositante. Neste caso, o credor do empenho orçamentário (ou extraorçamentário) é o Juízo que determinou o depósito, já que è à conta dele que será registrada a responsabilidade pela guarda do valor e, se o valor depositado for entregue à outra parte que não a depositante, aí sim, conforme o procedimento adotado, realiza-se o empenho em favor do beneficiário final do depósito, em geral, a outra parte do processo.&lt;/p&gt;
+
+&lt;p&gt;E aí, o que você acha disso? Tem algo a contribuir? Alguma normativa a citar? Fique livre para comentar.&lt;/p&gt;
+</description>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+        </item>
+        
+        <item>
+            <title>Indicador de Comprometimento dos Recursos</title>
+            <link>/contabilidadepublica/gest%C3%A3o/2018/06/28/indicador-de-comprometimento-dos-recursos.html</link>
+            <guid isPermaLink="true">/contabilidadepublica/gest%C3%A3o/2018/06/28/indicador-de-comprometimento-dos-recursos.html</guid>
+            <description>&lt;p&gt;No Setor público existem diversos índices e indicadores estabelecidos em leis cujo cumprimento é obrigatório, mas que para fins gerenciais não são muito significativos.&lt;/p&gt;
+
+&lt;p&gt;Despesa Total com Pessoal, Receita Corrente Líquida, Aplicação de Recursos de Impostos e Transferências em MDE e ASPS, não são bons indicadores gerenciais, embora devam ser acompanhados constantemente.&lt;/p&gt;
+
+&lt;p&gt;Particularmente eu utilizo alguns índices e coeficientes para analisar as finanças do Município onde trabalho.&lt;/p&gt;
+
+&lt;p&gt;Um desses índices é o de comprometimento dos recursos, que busca demonstrar quanto dos recursos disponíveis já estão comprometidos com algum tipo de despesa.&lt;/p&gt;
+
+&lt;p&gt;O princípio básico desse indicador, como se pode ver na fórmula a seguir, é o de correlacionar as despesas já realizadas e a realizar com os recursos disponíveis, dentro de um determinado exercício financeiro.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{filename}/images/icr-latex.png&quot; alt=&quot;Fórmula do Índice de Comprometimento de Recursos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A primeira constatação na fórmula acima está no fato de que ela engloba sempre um exercício financeiro inteiro. Por isso é que se usa o Empenhado Total, que representa o montante de recursos já comprometidos por empenho.&lt;/p&gt;
+
+&lt;p&gt;Como podemos ver, primeiramente devemos apurar o total que será gasto no ano, com razoável segurança, somando ao valor total empenhado, o valor previsto a empenhar relativamente a folha de pagamento.&lt;/p&gt;
+
+&lt;p&gt;Também somamos os valores de precatórios previstos para pagamento no ano, porém ainda não empenhados, já que o § 5º do art. 100 da Constituição da República obriga a inclusão e pagamento desse tipo de despesa:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;§ 5º É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos, oriundos de sentenças transitadas em julgado, constantes de precatórios judiciários apresentados até 1º de julho, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente. (Redação dada pela Emenda Constitucional nº 62, de 2009).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Também devemos considerar as dívidas ainda não empenhadas, mas que representarão provável saída de recursos durante o ano, como por exemplo, parcelamentos previdenciários, de PASEP ou outros tributos, se ainda não empenhados.&lt;/p&gt;
+
+&lt;p&gt;É importante também considerar outras despesas que são “obrigatórias” durante o ano, tais como água, luz telefone, entre outras, que se ainda não empenhadas, devem ser acrescentadas (por estimativa) juntamente com a Dívida a Empenhar. Isto porque, por incrível que pareça, tem gente que só empenha a conta de luz, por exemplo, quando recebe a fatura, a cada mês.&lt;/p&gt;
+
+&lt;p&gt;Já na parte inferior da equação temos os recursos disponíveis, estes representados pela Dotação Inicial, no montante originalmente fixado na Lei Orçamentária, o Superávit Financeiro inicial do exercício (ou final do exercício anterior) e o Excesso de Arrecadação observado até a data-base. Quanto a estes itens, cabem algumas considerações.&lt;/p&gt;
+
+&lt;p&gt;A primeira delas se faz quanto ao uso da Dotação Inicial, já que você pode se perguntar o motivo de não se utilizar a receita inicialmente prevista na Lei Orçamentária.&lt;/p&gt;
+
+&lt;p&gt;Imaginemos que estamos apurando esse índice tendo em conta somente o Poder Executivo, já que a gestão de recursos da Câmara cabe ao Legislativo. Neste caso, se usasse a receita inicialmente prevista, teríamos que obrigatoriamente incluir na primeira parte da equação, nas obrigações, o valor a repassar para o Legislativo, já que parte da receita é destinada aquele Poder. Este mesmo raciocínio vale para qualquer outro tipo de transferência financeira que uma entidade deva fazer a outra, como por exemplo, a Prefeitura para o RPPS para a cobertura de despesas deste (caso se apure o índice de comprometimento dos recursos apenas da Prefeitura).&lt;/p&gt;
+
+&lt;p&gt;Ao usar a dotação inicialmente prevista na LOA, estamos eliminando a necessidade da inclusão de transferências financeiras entre entidades, mas é claro que ao apurar esse índice, se faz necessária uma análise da situação fática para saber o que deve constar efetivamente na fórmula ou não, adequando-a à realidade do utilizador.&lt;/p&gt;
+
+&lt;p&gt;A segunda observação que faço é a de que a inclusão do Superávit Financeiro do ano anterior é uma inclusão óbvia, já que se trata de recurso efetivamente disponível para utilização. Apenas um cuidado: deve-se reduzir do superávit inicial o valor dos créditos reabertos. Os motivos disto podem ser conferidos neste outro texto, intitulado &lt;a href=&quot;{filename}2016-08-13-reabertura-de-creditos-especiais-e-o-seu-reflexo-no-superavit-financeiro.md&quot;&gt;Reabertura de Créditos Especiais e o seu Reflexo no Superávit Financeiro&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, temos o excesso de arrecadação, o qual, originalmente se inclui apenas os valores utilizados como fonte de créditos adicionais, contudo, também é possível utilizar o valor apurado de excesso de arrecadação, independente de ter sido utilizado como fonte de créditos adicionais ou não.&lt;/p&gt;
+
+&lt;p&gt;No caso do excesso de arrecadação, inclui-se auxílios e convênios, receitas arrecadadas a maior que o previsto e receitas arrecadadas, porém não previstas no orçamento.&lt;/p&gt;
+
+&lt;p&gt;Uma última pergunta ainda pode ser feita: e as movimentações extra-orçamentárias? Onde elas aparecem?&lt;/p&gt;
+
+&lt;p&gt;Se considerarmos que a movimentação extra-orçamentária, como as retenções previdenciárias, por exemplo, se constituem de entradas e saídas compensatórias, não é necessário que sejam incluídas no cálculo, já que para cada despesa extra-orçamentária, obrigatoriamente houve ou haverá uma receita extra-orçamentária de igual valor. É evidente que casos atípicos devem ser analisados e, se for o caso, incluídos, ou como dispêndios ou como ingressos.&lt;/p&gt;
+
+&lt;p&gt;O resultado da equação proposta pode ser visualizado em percentual, facilitando a compreensão, já que exprime o quanto dos recursos disponíveis já estão comprometidos de alguma forma.&lt;/p&gt;
+
+&lt;p&gt;Por fim, um último lembrete: a apuração do índice de comprometimento dos recursos deve observar as peculiaridades da situação concreta no qual se aplica, adaptando-se a fórmula conforme as necessidades e contexto de cada Município.&lt;/p&gt;
+</description>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+        </item>
+        
+        <item>
+            <title>Gasto Total com Pessoal: protótipo de uma metodologia gerencial</title>
+            <link>/contabilidadepublica/gest%C3%A3o/2018/06/28/gasto-total-com-pessoal-prototipo-de-uma-metodologia-gerencial.html</link>
+            <guid isPermaLink="true">/contabilidadepublica/gest%C3%A3o/2018/06/28/gasto-total-com-pessoal-prototipo-de-uma-metodologia-gerencial.html</guid>
+            <description>&lt;p&gt;Quanto às despesas com folha de pagamento, o principal indicador de saúde financeira do setor público é o índice de despesa total com pessoal estabelecido pela &lt;a href=&quot;http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm&quot;&gt;Lei de Responsabilidade Fiscal&lt;/a&gt; (LRF) e que limita esse tipo de despesa a 60% da Receita Corrente Líquida (RCL).&lt;/p&gt;
+
+&lt;p&gt;O problema desse indicador é que nem a Despesa Total com Pessoal é efetivamente a despesa total com pessoal, e nem a Receita Corrente Líquida é, de fato, a receita corrente líquida.&lt;/p&gt;
+
+&lt;p&gt;Da Despesa Total com Pessoal, deduzem-se algumas despesas, que como regra, são indenizatórias. Tudo bem que a LRF permite, ou melhor, determina a dedução, porém inabilita o valor apurado com as deduções para a função gerencial.&lt;/p&gt;
+
+&lt;p&gt;O mesmo ocorre com a RCL, que também sofre algumas deduções que acabam prejudicando o seu uso gerencial.&lt;/p&gt;
+
+&lt;p&gt;Por uso gerencial, considero a capacidade de o indicador responder à seguinte pergunta, que creio seja fundamental para a gestão pública:&lt;/p&gt;
+
+&lt;p&gt;Quanto dos recursos disponíveis para custeio estão comprometidos em função do número de funcionários, e dos valores dos vencimentos e benefícios?&lt;/p&gt;
+
+&lt;p&gt;É claro que o índice de Despesa Total com Pessoal criado pela LRF teve muito mais o cunho de ser um limitador do que uma ferramenta gerencial. Mas aí é que está o problema: que ferramenta gerencial temos para medir o peso dos servidores nos recursos disponíveis?&lt;/p&gt;
+
+&lt;p&gt;Então, a exemplo de quando propus um &lt;a href=&quot;{filename}2016-09-08-indicador-de-comprometimento-dos-recursos.md&quot;&gt;indicador para o comprometimento dos recursos&lt;/a&gt;, também desenvolvi uma metodologia para monitorar o impacto da folha de pagamento nas finanças públicas. Essa metodologia se baseia no impacto financeiro com a razão entre despesa com pessoal e a receita de custeio e serve para medir o quanto da receita efetivamente disponível está comprometido com o que se gasta em termos totais com os servidores, isto em base anual.&lt;/p&gt;
+
+&lt;p&gt;Para isso, desenvolvo dois conceitos principais: o do &lt;strong&gt;Gasto Total com Pessoal&lt;/strong&gt; e o da &lt;strong&gt;Receita Efetivamente Disponível&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;gasto-total-com-pessoal&quot;&gt;Gasto Total com Pessoal&lt;/h2&gt;
+
+&lt;p&gt;O Gasto Total com Pessoal representa o &lt;a href=&quot;https://www.dicio.com.br/quantum/&quot;&gt;&lt;em&gt;quantum&lt;/em&gt;&lt;/a&gt; de recursos financeiros (dinheiro mesmo) necessário para arcar com a folha de pagamento e demais benefícios diretamente vinculados ao número de servidores.&lt;/p&gt;
+
+&lt;p&gt;Nesse conceito se enquadram as despesas no grupo de natureza de despesa Pessoal e Encargos Sociais (3.1.0.0.00.00.00.00.00) e demais despesas que se vinculam diretamente aos servidores, tais como auxílio-alimentação e cota patronal em planos de assistência a saúde dos servidores, caso não enquadradas no grupo de natureza de despesa Pessoal e Encargos Sociais.&lt;/p&gt;
+
+&lt;p&gt;Entretanto se fazem necessários alguns ajustes no valor das despesas para se apurar o Gasto Total com Pessoal pra expurgar os valores que não representam efetivo desembolso financeiro.&lt;/p&gt;
+
+&lt;p&gt;Como regra, os valores que, embora constituam-se em Variação Patrimonial Diminutiva (VPD) porém estão vinculados a uma Variação Patrimonial Aumentativa (VPA), e portanto e em princípio, não geram um desembolso efetivo, devem ser deduzidos do cálculo. Um exemplo é o auxílio-alimentação que possui contrapartida do servidor, porque parte desta despesa orçamentária é coberta pelo desconto do servidor a título de participação no custo do benefício.&lt;/p&gt;
+
+&lt;p&gt;Outro exemplo encontramos no IRRF relativo aos rendimentos do trabalho. Esta receita orçamentária representa uma contrapartida de parte da despesa com pessoal, já que se abate da remuneração bruta dos servidores, ou seja, parte da redução patrimonial ocasionada pelo pagamento das remunerações retorna ao patrimônio da entidade na forma dessa retenção.&lt;/p&gt;
+
+&lt;p&gt;Assim, o Gasto Total com Pessoal deverá espelhar apenas as despesas que, vinculadas diretamente ao número de servidores ou à sua remuneração e encargos em sentido amplo, acarretam uma efetiva redução patrimonial.&lt;/p&gt;
+
+&lt;h2 id=&quot;receita-efetivamente-disponível&quot;&gt;Receita Efetivamente Disponível&lt;/h2&gt;
+
+&lt;p&gt;Conceituo a Receita Efetivamente Disponível como o montante de recursos financeiros que efetivamente está disponível para o custeio da entidade pública. Simetricamente oposta ao Gasto Total com Pessoal, enquadra as receitas correntes líquidas das deduções que geram acréscimo no patrimônio da entidade, ou seja, que sua VPA não esteja vinculada a uma VPD.&lt;/p&gt;
+
+&lt;p&gt;Aplicando esse conceito, devemos reduzir da Receita Corrente, além dos valores registrados como Deduções da Receita Corrente, os valores retidos a título de IRRF sobre os rendimentos do trabalho, os descontos pela participação dos servidores no custo do auxílio-alimentação ou plano de saúde, se houverem, e descontos auferidos, já que todos estes não tem um efeito realmente positivo no patrimônio da entidade por estarem intrinsecamente vinculados a uma simétrica redução patrimonial.&lt;/p&gt;
+
+&lt;p&gt;Quanto ao custeio pelos servidores de parte dos auxílios-alimentação (e planos de saúde) e quanto ao IRRF, o mesmo raciocínio feito para a dedução para fins de Gasto Total com Pessoal é válido.&lt;/p&gt;
+
+&lt;p&gt;No que se refere aos descontos auferidos, temos que lembrar que o desconto é recebido em virtude uma despesa, a qual teve seu valor bruto pago para fins de registro, porém financeiramente apenas se movimentou o valor líquido, sendo o desconto registrado como receita orçamentária da entidade para contrabalancear o valor bruto empenhado, liquidado e pago.&lt;/p&gt;
+
+&lt;p&gt;Em resumo, toda receita corrente que não gere efetivo aumento da situação líquida patrimonial se enquadra como Receita Efetivamente Disponível.&lt;/p&gt;
+
+&lt;h2 id=&quot;índice-de-gasto-total-com-pessoal-sobre-a-receita-efetivamente-disponível&quot;&gt;Índice de Gasto Total com Pessoal sobre a Receita Efetivamente Disponível&lt;/h2&gt;
+
+&lt;p&gt;Por fim, apurados os montantes da Receita Efetivamente Disponível e do Gasto Total com Pessoal, estes relativos sempre ao mês de referência somado aos onze meses anteriores para que se tenha o ciclo anual e se anulem eventuais sazonalidades; com isto, é hora de calcularmos o quanto dos recursos para custeio são absorvidos pelo quadro de servidores da entidade pública.
+Esse índice é a razão entre o Gasto Total com Pessoal e a Receita Efetivamente Disponível apurado na forma de percentual, aos moldes da LRF.&lt;/p&gt;
+
+&lt;p&gt;A prática tem demonstrado que, pelo menos no município do qual sou contador, o índice de Gasto Total com Pessoal é ligeiramente maior que os índices calculados nas metodologias do TCE/RS e da STN (MDF), indicando que o peso da folha de pagamento é efetivamente maior do que a legislação visa demonstrar com seus índices.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;{filename}/files/rcl-gtp-tcers-stn-gerencial_V4.ods&quot;&gt;Planilha para cálculos do GTP e da DTP da STN e do TCE/RS&lt;/a&gt;&lt;/p&gt;
+</description>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+        </item>
+        
+        <item>
+            <title>Despesa Total com Pessoal e a Confusão de Metodologias</title>
+            <link>/contabilidadepublica/opini%C3%A3o/2018/06/28/despesa-total-com-pessoal-e-a-confusao-de-metodologias.html</link>
+            <guid isPermaLink="true">/contabilidadepublica/opini%C3%A3o/2018/06/28/despesa-total-com-pessoal-e-a-confusao-de-metodologias.html</guid>
+            <description>&lt;p&gt;Em 2015, o município do qual sou contador apresentou uma situação um tanto quanto esdrúxula: o índice de Despesa Total com Pessoal publicado no RGF ultrapassou o limite de 54%, porém o limite apurado no PAD ficou abaixo desse limite. Mas pode isso Arnaldo?&lt;/p&gt;
+
+&lt;p&gt;Pode sim, pois para mim a regra é clara. Explico o porquê.&lt;/p&gt;
+
+&lt;p&gt;Primeiramente, vou resumir o que é o PAD (para quem não é contador público no Rio Grande do Sul).&lt;/p&gt;
+
+&lt;p&gt;O &lt;a href=&quot;http://www1.tce.rs.gov.br/portal/page/portal/tcers/jurisdicionados/sistemas_controle_externo/siapc&quot;&gt;PAD&lt;/a&gt; (Programa Autenticador de Dados) é um software integrante do &lt;a href=&quot;http://www1.tce.rs.gov.br/portal/page/portal/tcers/jurisdicionados/sistemas_controle_externo/siapc&quot;&gt;SIAPC&lt;/a&gt; (Sistema de Informações para Auditora e Prestação de Contas) do TCE/RS utilizado pelos municípios do RS para o envio bimestral de dados orçamentários, financeiros e contábeis ao TCE com a finalidade de subsidiar a auditoria e avaliação das gestões municipais.&lt;/p&gt;
+
+&lt;p&gt;Além de receber e fazer algumas validações nos dados, o PAD também apura alguns índices, como os das aplicações de recursos de impostos e transferências em Saúde e Educação, e índices da LRF, um deles o de Despesa Total com Pessoal (DTP).&lt;/p&gt;
+
+&lt;p&gt;Acontece que o PAD calcula o DTP de acordo com a metodologia do TCE/RS, que como sabemos, &lt;a href=&quot;http://www.selene.blog.br/#!Burlas-no-c%C3%A1lculo-das-despesas-com-pessoal/bxl1w/5728bedd0cf25326f6c4208b&quot;&gt;diverge da metodologia do MDF&lt;/a&gt;, da STN. Além disso o município não tem total controle sobre o índice apurado porque, embora possam ser configuradas contas para serem incluídas ou excluídas do cálculo, e também possam serem manualmente incluídos ou excluídos valores das contas consideradas, estas alterações poderão não ser aceitas pelo Tribunal de Contas.&lt;/p&gt;
+
+&lt;p&gt;Outra questão que está fora do controle dos Municípios é o fato de que o próprio Tribunal de Contas podem fazer ajustes nos índices e valores inicialmente apurados.&lt;/p&gt;
+
+&lt;p&gt;Portanto o valor da Despesa Total com Pessoal apurado pelo PAD não é um cálculo efetuado pelo Município, mas sim pelo Tribunal de Contas.&lt;/p&gt;
+
+&lt;p&gt;Por outro lado, no RGF publicado pelo Município, a responsabilidade pelo cálculo é total de quem publica. Além disso, o RGF publicado pelo Município deve seguir o que estabelece o Manual de Demonstrativos Fiscais, cuja metodologia é diferente daquela praticada pelo Tribunal de Contas como já dissemos. Desta forma, o índice de Despesa Total com Pessoal divulgado no RGF é o único que é calculado efetivamente pelo Município.&lt;/p&gt;
+
+&lt;p&gt;Existem opiniões, em especial de empresas de consultoria, que pregam a necessidade de adequar os valores do RGF aos apurados pelo Tribunal de Contas com a justificativa de que a existência de dois índices distintos, além de eventualmente prejudicar o município, traria confusão ao cidadão que for buscar esta informação. Orientam ainda, que ao harmonizar o RGF de acordo com os valores do PAD, este fato deverá ser incluído em nota explicativa ao demonstrativo fiscal.&lt;/p&gt;
+
+&lt;p&gt;Devo dizer que discordo desta opinião porque, em primeiro lugar, não é o município quem deve assumir para si a responsabilidade de desfazer a confusão criada pelo Tribunal de Contas ao adotar a metodologia divergente daquela estabelecida pela Lei de Responsabilidade Fiscal.&lt;/p&gt;
+
+&lt;p&gt;Em segundo lugar, eu entendo que ao publicar um RGF em desacordo com as orientações do Manual de Demonstrativos Fiscais, o técnico que elabora e o município estão descumprindo normativa superior, já que as disposições do MDF não são facultativas, mas sim. obrigatórias.&lt;/p&gt;
+
+&lt;p&gt;Além disso, se algo deve ser incluído em notas explicativas, a nota deve versar sobra a existência de divergência entre as duas metodologias.&lt;/p&gt;
+
+&lt;p&gt;Alguns argumentam que o ajuste no RGF pode ser justificado também pelo fato de que, na prática, é o índice do Tribunal de Contas que é o que vale do para fins de atendimento à Lei de Responsabilidade Fiscal. Também entendo que existe uma falha nesse argumento porque o &lt;a href=&quot;http://www1.tce.rs.gov.br/portal/page/portal/tcers/institucional/competencia&quot;&gt;Tribunal de Contas não tem atribuição de apurar os índices oficiais&lt;/a&gt; uma vez que a LRF atribui ao ente a elaboração e publicação dos demonstrativos fiscais. A atribuição do Tribunal é de atestar ou não o atendimento à LRF. Se o Tribunal de Contas faz esse ateste com base em índices que ele mesmo calcula ou com base nos índices divulgados pelos jurisdicionados, isto é uma questão interna ao Tribunal de Contas e não desobriga os municípios de cumprirem as determinações contidas no MDF.&lt;/p&gt;
+
+&lt;p&gt;Em síntese não cabe qualquer ajuste no RGF que não seja permitido pelo Manual de Demonstrativos Fiscais. Qualquer divergência entre o índice de Despesa Total com Pessoal apurado conforme metodologia do MDF e o índice eventualmente apurado pelo Tribunal de Contas é de responsabilidade do Tribunal e não do município, muito embora seja este último a prevalecer.&lt;/p&gt;
 </description>
             <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
         </item>

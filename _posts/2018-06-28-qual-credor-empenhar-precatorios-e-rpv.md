@@ -1,7 +1,10 @@
 ---
 title: Qual credor deve constar nos empenhos de precatórios e RPV?
-category: Contabilidade
-tags: empenho, precatórios, rpv
+category: Orçamento
+tags:
+  - empenho
+  - precatórios
+  - rpv
 summary: Os empenhos de precatórios/RPV devem ter como credores o Tribunal emitente da guia para pagamento ou os beneficários do precatório/RPV?
 ---
 Desde já alerto ao leitor que este texto traz uma opinião baseada estritamente num raciocínio lógico, e não na interpretação de algum instrumento normativo. Portanto, use por sua conta e risco!

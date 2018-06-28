@@ -1,7 +1,6 @@
 ---
 title: Indicador de Comprometimento dos Recursos
-date: 2016-09-08 21:18
-category: Orçamento
+category: Gestão
 tags: avaliação
 summary: No Setor público existem diversos índices e indicadores estabelecidos em leis cujo cumprimento é obrigatório, mas que para fins gerenciais não são muito significativos.
 ---

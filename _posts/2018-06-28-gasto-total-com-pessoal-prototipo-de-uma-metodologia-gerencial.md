@@ -1,7 +1,8 @@
 ---
 title: "Gasto Total com Pessoal: protótipo de uma metodologia gerencial"
-category: Contabilidade
-tags: despesa com pessoal, gestão, LRF
+category: Gestão
+tags:
+  - despesa com pessoal
 ---
 Quanto às despesas com folha de pagamento, o principal indicador de saúde financeira do setor público é o índice de despesa total com pessoal estabelecido pela [Lei de Responsabilidade Fiscal](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm) (LRF) e que limita esse tipo de despesa a 60% da Receita Corrente Líquida (RCL).
 
